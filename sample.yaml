@@ -1,0 +1,18 @@
+# General settings
+time_zone: "America/New York"
+start_of_day: 7
+schedule_duration: 45
+
+# Side projects settings
+side_project_rotation_period: 7
+side_projects:
+  - Project 1
+
+# Books settings
+book_rotation_period: 7
+books:
+  - Book 1
+# Courses settings
+course_rotation_period: 14
+courses:
+  - Course 1
